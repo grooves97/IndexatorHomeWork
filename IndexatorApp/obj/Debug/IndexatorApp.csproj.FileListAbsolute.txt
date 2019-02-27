@@ -1,0 +1,7 @@
+C:\Users\ww\source\Indexator\IndexatorApp\IndexatorApp\bin\Debug\IndexatorApp.exe.config
+C:\Users\ww\source\Indexator\IndexatorApp\IndexatorApp\bin\Debug\IndexatorApp.exe
+C:\Users\ww\source\Indexator\IndexatorApp\IndexatorApp\bin\Debug\IndexatorApp.pdb
+C:\Users\ww\source\Indexator\IndexatorApp\IndexatorApp\obj\Debug\IndexatorApp.csprojAssemblyReference.cache
+C:\Users\ww\source\Indexator\IndexatorApp\IndexatorApp\obj\Debug\IndexatorApp.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\Indexator\IndexatorApp\IndexatorApp\obj\Debug\IndexatorApp.exe
+C:\Users\ww\source\Indexator\IndexatorApp\IndexatorApp\obj\Debug\IndexatorApp.pdb
